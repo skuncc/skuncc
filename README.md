@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skuncc
 - 👀 I’m interested in long walks on beaches and strawberries and peaches
-- 🌱 I like Ubuntu and Linux and Windows and MacOS And RLX
+- 🌱 I like openSUSE and Linux and Windows and MacOS And RLX
 - 💞️ I’m looking to collaborate on anything for rent money
 - 📫 How to reach me: p.skuncc@gmail.com
 
